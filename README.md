@@ -19,7 +19,7 @@ Javadocs for TheGrid class is available in the javadoc folde
 The source for of the program is available under the src directory. The students don't need to look at the source of the other three classes. But you can show them after the lab for learning purposes.
 
 # More Information
-For more information about the lab, you can visit https://jeffreywong.ca/programs/ap-computer-science:-minesweeper-lab/
+For more information about the lab, you can visit https://jeffreywong.ca/programs/ap-computer-science-minesweeper-lab/
 
 # License
 This lab and java files are created by Jeffrey Wong. The Java files are distributed under the **MIT License** as shown below. The lab is distributed under the **Creative Commons Attribution ShareALike 4.0 International License** (https://creativecommons.org/licenses/by-sa/4.0/)
