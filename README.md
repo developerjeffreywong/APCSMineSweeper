@@ -22,7 +22,7 @@ The source for of the program is available under the src directory. The students
 For more information about the lab, you can visit https://jeffreywong.ca/programs/ap-computer-science:-minesweeper-lab/
 
 # License
-This lab and java files are created by Jeffrey Wong. The Java files are distributed under the MIT License as shown below. The lab is distributed under the Creative Commons Attribution ShareALike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/)
+This lab and java files are created by Jeffrey Wong. The Java files are distributed under the **MIT License** as shown below. The lab is distributed under the **Creative Commons Attribution ShareALike 4.0 International License** (https://creativecommons.org/licenses/by-sa/4.0/)
 
 # MIT LICENSE
 > Copyright (c) 2016 Jeffrey Wong (contact@jeffreywong.ca)
